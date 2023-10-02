@@ -56,25 +56,25 @@ It’s very easy to label the cards as overpowered, and I think they are, in gen
 
 The Legends Cube has a few different mechanics, text abbreviations, and a new card type. I didn't rely much on new mechanics, trying to give a cube-like broad exploration of existing mechanics. First, I chose the names Level Up, Experience, and Quest because of their nice flavor; I feel that changing the name of the counters just to differentiate from the ROE level mechanic or simply making them +1/+1 does more harm than good. It's entirely parallel to the ROE mechanic, and while playing, if you are not very lost, you will never get confused about how Level Counters work here. I see the different mechanics and details as mere adjustments for the overall feeling. I didn't put reminders because it's all too easy to understand.
 
-ETB
+## ETB
 Means all forms related to entering the battlefield, like the forms in Quagmire Lunatic and Mountain Valley.
 
 Mana of all colors
 The set doesn't contain the colorless mana, but I used its code for my mana of all colors symbol, which is the same, but golden. It appears in the card's costs and abilities like Daughter of Autumn and Sylvan Library. Here, it substitutes "mana of any color", is a type of mana and counts as all colors.
 
-Mill
+## Mill
 An abbreviation that reads "Someone mills X cards" = "Someone puts the top X cards from his or her library into his or her graveyard". Like the card Syphon Soul.
 
 Level Counters / Level up
 They are a special type of counter. Creatures get +1/+1 for each level counter on them and a permanent with X level counters on it is at level X. The set doesn't contain +1/+1 counters and -1/-1 counters. When a permanent levels up, it's simply gaining a level counter. Examples: Holy Day, Hyperion Blacksmith.
 
-Level X
+## Level X
 As said above, a permanent is at level X if it has X level counters on it. A permanent can also have a Level X ability, that reads "Level X - []" = "If there are X or more level counters on it, it has “[]”". Examples: Primordial Ooze, Livonya the Blind Vendetta.
 
-Experience
+## Experience
 It's a triggered ability that gives level counters to permanents. It reads "Experience - []" = "[], put a level counter on it". Examples: Statue of Sir Shandlar of Eberyn, Adun Followed by Death
 
-Quest
+## Quest
 Quests are a new type of permanent. All quests have an ETB triggered ability and two statements written in their text boxes.
 
 Each Quest has statements, called Missions. Every time a SBA is checked, incomplete Missions are checked, and if made true while the quest is on the battlefield, they are completed. A mission ceases to be completed only if an effect says so (and, naturally, if the quest ceases to exist as the same object), meaning that it doesn't matter if the statement is no longer true once you complete the quest Mission.
