@@ -59,13 +59,13 @@ The Legends Cube has a few different mechanics, text abbreviations, and a new ca
 ## ETB
 Means all forms related to entering the battlefield, like the forms in Quagmire Lunatic and Mountain Valley.
 
-Mana of all colors
+## Mana of all colors
 The set doesn't contain the colorless mana, but I used its code for my mana of all colors symbol, which is the same, but golden. It appears in the card's costs and abilities like Daughter of Autumn and Sylvan Library. Here, it substitutes "mana of any color", is a type of mana and counts as all colors.
 
 ## Mill
 An abbreviation that reads "Someone mills X cards" = "Someone puts the top X cards from his or her library into his or her graveyard". Like the card Syphon Soul.
 
-Level Counters / Level up
+## Level Counters / Level up
 They are a special type of counter. Creatures get +1/+1 for each level counter on them and a permanent with X level counters on it is at level X. The set doesn't contain +1/+1 counters and -1/-1 counters. When a permanent levels up, it's simply gaining a level counter. Examples: Holy Day, Hyperion Blacksmith.
 
 ## Level X
