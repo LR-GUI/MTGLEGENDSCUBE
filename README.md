@@ -60,7 +60,7 @@ The Legends Cube has a few different mechanics, text abbreviations, and a new ca
 Means all forms related to entering the battlefield, like the forms in Quagmire Lunatic and Mountain Valley.
 
 ## Mana of all colors
-The set doesn't contain the colorless mana, but I used its code for my mana of all colors symbol, which is the same, but golden. It appears in the card's costs and abilities like Daughter of Autumn and Sylvan Library. Here, it substitutes "mana of any color", is a type of mana and counts as all colors.
+The set doesn't contain the colorless mana cost, but I used its code for my mana of all colors symbol, which is the same, but golden. It appears in the card's costs and abilities like Daughter of Autumn and Sylvan Library. Here, it substitutes "mana of any color", is a type of mana and counts as all colors. It's entirely parallel to the colorless mana cost idea from OGW.
 
 ## Mill
 An abbreviation that reads "Someone mills X cards" = "Someone puts the top X cards from his or her library into his or her graveyard". Like the card Syphon Soul.
